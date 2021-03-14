@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arildyk&theme=dark&layout=compact)](https://github.com/arildyk/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arildyk&show_icons=true&theme=dark)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arildyk)](https://github.com/arildyk/github-readme-stats)
