@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arildyk&layout=compact&hide_border=true&bg_color=white&icon_color=1DB954&title_color=191414)](https://github.com/arildyk/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arildyk&show_icons=true&hide_border=true&bg_color=white&icon_color=1DB954&title_color=191414)
+![Trophies](https://github-profile-trophy.vercel.app/?username=arildyk&column=6&hide_border=true&rank=SSS,SS,S,AAA,AA,A,B,C)
