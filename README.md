@@ -22,7 +22,6 @@
 ```yaml
 name      : Arild Yonkeu
 location  : Ottawa, ON 🇨🇦
-languages : English / French
 ```
 
 I'm an **AI Developer** and **Software Developer** specializing in AI for edge-cloud systems.
