@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=E8A020&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=MSc+Computer+Science+%40+University+of+Ottawa+%F0%9F%8E%93;Edge-Cloud+AI+%7C+DRL+%7C+Semantic+Communications+%F0%9F%A7%A0;Full-Stack+%7C+MLOps+%7C+Systems+Engineering+%F0%9F%94%A7;Canadian+Nuclear+Laboratories+%E2%80%A2+SCVIC+%E2%80%A2+Edge+Signal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=E8A020&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=MSc+Computer+Science+%40+University+of+Ottawa+%F0%9F%8E%93;Software+Developer+%F0%9F%92%BB;AI+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
