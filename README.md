@@ -24,9 +24,6 @@ location  : Ottawa, ON 🇨🇦
 I'm an **AI Developer** and **Software Developer**
 specializing in AI for edge-cloud systems.
 
-> *"I don't do things the normal way*
-> *if there's a cleverer way."*
-
 </td>
 <td width="50%" valign="top">
 
