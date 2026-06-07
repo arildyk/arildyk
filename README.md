@@ -95,11 +95,11 @@ vibe      = "🎵 beats"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arildyonkeu&show_icons=true&theme=transparent&title_color=e8a020&icon_color=e8a020&text_color=8a9ab5&border_color=1e2d42&hide_border=false&border_radius=8&bg_color=0a0a0f&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arildyk&show_icons=true&theme=transparent&title_color=e8a020&icon_color=e8a020&text_color=8a9ab5&border_color=1e2d42&hide_border=false&border_radius=8&bg_color=0a0a0f&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arildyonkeu&layout=compact&theme=transparent&title_color=e8a020&text_color=8a9ab5&border_color=1e2d42&bg_color=0a0a0f&border_radius=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arildyk&layout=compact&theme=transparent&title_color=e8a020&text_color=8a9ab5&border_color=1e2d42&bg_color=0a0a0f&border_radius=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arildyonkeu&theme=transparent&background=0a0a0f&border=1e2d42&stroke=1e2d42&ring=e8a020&fire=e8a020&currStreakNum=e8a020&sideNums=8a9ab5&currStreakLabel=8a9ab5&sideLabels=8a9ab5&dates=3d4f66&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arildyk&theme=transparent&background=0a0a0f&border=1e2d42&stroke=1e2d42&ring=e8a020&fire=e8a020&currStreakNum=e8a020&sideNums=8a9ab5&currStreakLabel=8a9ab5&sideLabels=8a9ab5&dates=3d4f66&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
@@ -109,9 +109,9 @@ vibe      = "🎵 beats"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=e8a020)](https://linkedin.com/in/arildyonkeu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=e8a020)](https://linkedin.com/in/arildyk)
 
-![Profile Views](https://komarev.com/ghpvc/?username=arildyonkeu&style=for-the-badge&color=e8a020&label=VISITORS&base=0)
+![Profile Views](https://komarev.com/ghpvc/?username=arildyk&style=for-the-badge&color=e8a020&label=VISITORS&base=0)
 
 </div>
 
