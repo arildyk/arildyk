@@ -6,12 +6,6 @@
 
 <br/>
 
-![CNL](https://img.shields.io/badge/Canadian%20Nuclear%20Laboratories-0a0a0f?style=flat-square&logoColor=e8a020&color=0d1520&labelColor=0d1520)
-&nbsp;
-![SCVIC](https://img.shields.io/badge/SCVIC-0a0a0f?style=flat-square&color=0d1520&labelColor=0d1520)
-&nbsp;
-![EdgeSignal](https://img.shields.io/badge/Edge%20Signal-0a0a0f?style=flat-square&color=0d1520&labelColor=0d1520)
-
 </div>
 
 <br/>
