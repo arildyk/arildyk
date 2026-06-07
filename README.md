@@ -19,7 +19,6 @@
 ```yaml
 name      : Arild Yonkeu
 location  : Ottawa, ON 🇨🇦
-languages : English / French
 ```
 
 I'm an **AI Developer** and **Software Developer**
@@ -57,87 +56,79 @@ vibe      = "🎵 beats"
 
 <br/>
 
-**`— Languages —`**
+`— Languages —`
 
-![Python](https://img.shields.io/badge/Python-0d1520?style=for-the-badge&logo=python&logoColor=e8a020&labelColor=0d1520)
-![C#](https://img.shields.io/badge/C%23-0d1520?style=for-the-badge&logo=csharp&logoColor=e8a020&labelColor=0d1520)
-![Java](https://img.shields.io/badge/Java-0d1520?style=for-the-badge&logo=openjdk&logoColor=e8a020&labelColor=0d1520)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1520?style=for-the-badge&logo=javascript&logoColor=e8a020&labelColor=0d1520)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1520?style=for-the-badge&logo=typescript&logoColor=e8a020&labelColor=0d1520)
-
-<br/>
-
-**`— AI / ML / Research —`**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1520?style=for-the-badge&logo=pytorch&logoColor=e8a020&labelColor=0d1520)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1520?style=for-the-badge&logo=scikit-learn&logoColor=e8a020&labelColor=0d1520)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-0d1520?style=for-the-badge&logoColor=e8a020&labelColor=0d1520)
-![NumPy](https://img.shields.io/badge/NumPy-0d1520?style=for-the-badge&logo=numpy&logoColor=e8a020&labelColor=0d1520)
-![LLMs](https://img.shields.io/badge/LLMs-0d1520?style=for-the-badge&logo=openai&logoColor=e8a020&labelColor=0d1520)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1520?style=for-the-badge&logo=tensorflow&logoColor=e8a020&labelColor=0d1520)
+![Python](https://img.shields.io/badge/Python-0d1520?style=for-the-badge&logo=python&logoColor=e8a020)
+![C#](https://img.shields.io/badge/C%23-0d1520?style=for-the-badge&logo=csharp&logoColor=e8a020)
+![Java](https://img.shields.io/badge/Java-0d1520?style=for-the-badge&logo=openjdk&logoColor=e8a020)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1520?style=for-the-badge&logo=javascript&logoColor=e8a020)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1520?style=for-the-badge&logo=typescript&logoColor=e8a020)
 
 <br/>
 
-**`— Backend & Frameworks —`**
+`— AI / ML / Research —`
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0d1520?style=for-the-badge&logo=dotnet&logoColor=e8a020&labelColor=0d1520)
-![Node.js](https://img.shields.io/badge/Node.js-0d1520?style=for-the-badge&logo=node.js&logoColor=e8a020&labelColor=0d1520)
-![React.js](https://img.shields.io/badge/React.js-0d1520?style=for-the-badge&logo=react&logoColor=e8a020&labelColor=0d1520)
-![Dart/Flutter](https://img.shields.io/badge/Dart%2FFlutter-0d1520?style=for-the-badge&logo=flutter&logoColor=e8a020&labelColor=0d1520)
-
-<br/>
-
-**`— Infrastructure & Data —`**
-
-![Docker](https://img.shields.io/badge/Docker-0d1520?style=for-the-badge&logo=docker&logoColor=e8a020&labelColor=0d1520)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1520?style=for-the-badge&logo=microsoftsqlserver&logoColor=e8a020&labelColor=0d1520)
-![Git](https://img.shields.io/badge/Git-0d1520?style=for-the-badge&logo=git&logoColor=e8a020&labelColor=0d1520)
-![Linux](https://img.shields.io/badge/Linux-0d1520?style=for-the-badge&logo=linux&logoColor=e8a020&labelColor=0d1520)
-
-</div>
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1520?style=for-the-badge&logo=pytorch&logoColor=e8a020)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1520?style=for-the-badge&logo=scikit-learn&logoColor=e8a020)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1520?style=for-the-badge&logo=huggingface&logoColor=e8a020)
+![NumPy](https://img.shields.io/badge/NumPy-0d1520?style=for-the-badge&logo=numpy&logoColor=e8a020)
+![LLMs](https://img.shields.io/badge/LLMs-0d1520?style=for-the-badge&logo=openai&logoColor=e8a020)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1520?style=for-the-badge&logo=tensorflow&logoColor=e8a020)
 
 <br/>
 
-<div align="center">
+`— Backend & Frameworks —`
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0d1520?style=for-the-badge&logo=dotnet&logoColor=e8a020)
+![Node.js](https://img.shields.io/badge/Node.js-0d1520?style=for-the-badge&logo=node.js&logoColor=e8a020)
+![React.js](https://img.shields.io/badge/React.js-0d1520?style=for-the-badge&logo=react&logoColor=e8a020)
+![Dart/Flutter](https://img.shields.io/badge/Dart%2FFlutter-0d1520?style=for-the-badge&logo=flutter&logoColor=e8a020)
+
+<br/>
+
+`— Infrastructure & Data —`
+
+![Docker](https://img.shields.io/badge/Docker-0d1520?style=for-the-badge&logo=docker&logoColor=e8a020)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1520?style=for-the-badge&logo=microsoftsqlserver&logoColor=e8a020)
+![Git](https://img.shields.io/badge/Git-0d1520?style=for-the-badge&logo=git&logoColor=e8a020)
+![Linux](https://img.shields.io/badge/Linux-0d1520?style=for-the-badge&logo=linux&logoColor=e8a020)
+
+<br/>
+
+---
 
 ### `> ./stats.sh`
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arildyk&show_icons=true&theme=transparent&title_color=e8a020&icon_color=e8a020&text_color=8a9ab5&border_color=1e2d42&hide_border=false&border_radius=8&bg_color=0d1520&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=arildyk&show_icons=true&theme=transparent&title_color=e8a020&icon_color=e8a020&text_color=8a9ab5&border_color=1e2d42&border_radius=8&bg_color=0d1520&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arildyk&layout=compact&theme=transparent&title_color=e8a020&text_color=8a9ab5&border_color=1e2d42&bg_color=0d1520&border_radius=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arildyk&layout=compact&theme=transparent&title_color=e8a020&text_color=8a9ab5&border_color=1e2d42&bg_color=0d1520&border_radius=8&cache_seconds=1800" alt="Top Languages" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arildyk&theme=transparent&background=0d1520&border=1e2d42&stroke=1e2d42&ring=e8a020&fire=e8a020&currStreakNum=e8a020&sideNums=8a9ab5&currStreakLabel=8a9ab5&sideLabels=8a9ab5&dates=3d4f66&border_radius=8)](https://git.io/streak-stats)
-
-</div>
+<img src="https://streak-stats.demolab.com?user=arildyk&theme=transparent&background=0d1520&border=1e2d42&stroke=1e2d42&ring=e8a020&fire=e8a020&currStreakNum=e8a020&sideNums=8a9ab5&currStreakLabel=8a9ab5&sideLabels=8a9ab5&dates=3d4f66&border_radius=8" alt="GitHub Streak" />
 
 <br/>
 
-<div align="center">
+---
 
 ### `> ping --social`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1520?style=for-the-badge&logo=linkedin&logoColor=e8a020&labelColor=0d1520)](https://linkedin.com/in/arildyk)
-
-<br/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1520?style=for-the-badge&logo=linkedin&logoColor=e8a020)](https://linkedin.com/in/arildyk)
+&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=arildyk&style=for-the-badge&color=e8a020&label=VISITORS&base=0)
 
-</div>
-
 <br/>
+
+</div>
 
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a2535,70:0f1923,100:0a0a0f&height=120&section=footer&fontColor=e8a020&animation=twinkling)
-
-*Built from scratch. Optimized by hand. Like everything else.*
 
 </div>
