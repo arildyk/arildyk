@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f1923,60:1a2535,100:0a0a0f&height=200&section=header&text=Arild%20Yonkeu&fontSize=52&fontColor=e8a020&fontAlign=50&fontAlignY=55&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer&descSize=15&descAlign=50&descAlignY=75&descColor=8a9ab5&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f1923,60:1a2535,100:0a0a0f&height=200&section=header&text=Arild%20Yonkeu&fontSize=52&fontColor=e8a020&fontAlign=50&fontAlignY=55&descSize=15&descAlign=50&descAlignY=75&descColor=8a9ab5&animation=twinkling)
 
 </div>
 
